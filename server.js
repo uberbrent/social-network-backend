@@ -14,6 +14,6 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/social-media', 
     useUnifiedTopology: true
 });
 
-mongoose.set('dubug', true);
+//mongoose.set('dubug', true);
 
 app.listen(PORT, () => console.log(`Connected to LocalHost on port ${PORT}`));
