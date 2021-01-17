@@ -17,7 +17,12 @@
   ## Installation
         
   Once downloading, install the packages with "npm install" in node. Application will execute on "npm start".
-
+  
+  ## Usage
+  
+  Short videos on how to use the application will be included here
+  https://drive.google.com/file/d/1GZc_IZpXRA661bf5Uxfo92x-Hl-8PiUO/view - Part 1
+  https://drive.google.com/file/d/14B-eGMGwJMmVznOAPz-E8uHGqJlq9iyl/view - Part 2
 
   ## Credits
     
